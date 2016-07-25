@@ -1,0 +1,7 @@
+Model			Average Precision	
+
+OkapiTF				0.2356
+TFIDF				0.2984
+BM25				0.2975
+Laplace				0.2133
+JM 				0.2617
